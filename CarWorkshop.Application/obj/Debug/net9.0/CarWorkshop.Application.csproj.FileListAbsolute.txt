@@ -1,0 +1,15 @@
+C:\Projects\Course1\CarWorkshop.Application\bin\Debug\net9.0\CarWorkshop.Application.deps.json
+C:\Projects\Course1\CarWorkshop.Application\bin\Debug\net9.0\CarWorkshop.Application.dll
+C:\Projects\Course1\CarWorkshop.Application\bin\Debug\net9.0\CarWorkshop.Application.pdb
+C:\Projects\Course1\CarWorkshop.Application\bin\Debug\net9.0\CarWorkshop.Domain.dll
+C:\Projects\Course1\CarWorkshop.Application\bin\Debug\net9.0\CarWorkshop.Domain.pdb
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.csproj.AssemblyReference.cache
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.AssemblyInfoInputs.cache
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.AssemblyInfo.cs
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorks.05936055.Up2Date
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.dll
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\refint\CarWorkshop.Application.dll
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\CarWorkshop.Application.pdb
+C:\Projects\Course1\CarWorkshop.Application\obj\Debug\net9.0\ref\CarWorkshop.Application.dll
